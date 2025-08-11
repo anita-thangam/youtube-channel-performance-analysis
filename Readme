@@ -1,0 +1,41 @@
+# Unlocking YouTube Channel Performance Secrets
+
+This project analyzes YouTube channel performance data to reveal key factors that contribute to growth, audience engagement, and content success.
+
+##  Overview
+YouTube is one of the largest content platforms in the world, but many creators struggle to understand what drives their growth.  
+In this project, we perform **data exploration, visualization, and insights extraction** to answer questions such as:
+- Which videos bring the most engagement?
+- How do views, likes, and comments correlate?
+- What patterns lead to higher watch time?
+
+##  Features
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Correlation analysis of performance metrics
+- Trend visualization (views, likes, comments, watch time)
+- Actionable insights for improving channel performance
+
+##  Dataset
+The dataset includes:
+- **Video Title**
+- **Upload Date**
+- **Views**
+- **Likes**
+- **Dislikes**
+- **Comments**
+- **Watch Time**
+- **Engagement Rate**
+
+##  Tech Stack
+- **Python**
+- **Pandas, NumPy** – Data manipulation
+- **Matplotlib, Seaborn** – Data visualization
+- **Jupyter Notebook** – Development environment
+
+##  Insights Extracted
+Some of the findings include:
+- Videos with higher watch time have a strong positive correlation with likes.
+- Upload frequency impacts view trends.
+- Certain content categories consistently perform better in terms of engagement.
+
